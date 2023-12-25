@@ -106,10 +106,6 @@ Users must have access to a reliable internet connection (minimum 2 Mbps downloa
 4. Browser Compatibility
 5. Load Time Optimization
 
-#### Priority
-
-1
-
 ## Performance Requirements
 
 Performance requirements focus on ensuring the smooth functioning, responsiveness, and efficiency of the software.
